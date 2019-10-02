@@ -1,0 +1,93 @@
+input {
+  padding: 2px 4px;
+  font-size: 20px;
+  border-radius: 5px;
+  min-height: 40px;
+  margin: 5px;
+}
+
+.form {
+  font-size: 20px;
+  min-height: 100vh;
+  background-image: url(images/concrete_wall.png);
+  width: 20vw;
+}
+.form h2 {
+  text-align: center;
+  color: antiquewhite;
+  border-bottom: 5px solid #370dcd;
+  padding: 0 10px 10px 10px;
+}
+.form button {
+  margin-left: 2%;
+  padding: 18px 30px;
+  background-color: #370dcd;
+  text-transform: uppercase;
+  border: 1px solid #370dcd;
+  -webkit-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+  -webkit-box-shadow: 0px 5px 8px 0px rgba(0, 0, 0, 0.15);
+  box-shadow: 0px 5px 8px 0px rgba(0, 0, 0, 0.15);
+  border-radius: 5px;
+  color: antiquewhite;
+}
+
+.form button:hover {
+  -webkit-box-shadow: 0px 5px 20px 0px rgba(0, 0, 0, 0.25);
+  box-shadow: 0px 5px 20px 0px rgba(0, 0, 0, 0.25);
+  -webkit-transform: translateY(-3px);
+  transform: translateY(-3px);
+}
+label#date {
+  color: antiquewhite;
+  padding: 10px;
+  margin: 20px;
+}
+input#important {
+  width: 40px;
+  height: 40px;
+  margin-top: 20px;
+}
+label#important {
+  color: antiquewhite;
+  font-size: 25px;
+}
+.task,
+.completed {
+  text-align: right;
+  margin-right: 10px;
+  color: antiquewhite;
+}
+.task button,
+.completed button {
+  margin-left: 2%;
+  padding: 5px 10px;
+  background-color: #370dcd;
+  text-transform: uppercase;
+  border: 1px solid #370dcd;
+  -webkit-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+  -webkit-box-shadow: 0px 5px 8px 0px rgba(0, 0, 0, 0.15);
+  box-shadow: 0px 5px 8px 0px rgba(0, 0, 0, 0.15);
+  border-radius: 5px;
+  color: antiquewhite;
+}
+.task button:hover,
+.completed button:hover {
+  -webkit-box-shadow: 0px 5px 20px 0px rgba(0, 0, 0, 0.25);
+  box-shadow: 0px 5px 20px 0px rgba(0, 0, 0, 0.25);
+  -webkit-transform: translateY(-3px);
+  transform: translateY(-3px);
+}
+#info {
+  text-align: center;
+  font-size: 25px;
+  color: antiquewhite;
+}
+
+#message {
+  margin-left: 10%;
+  text-align: center;
+  font-size: 15px;
+  color: antiquewhite;
+}
