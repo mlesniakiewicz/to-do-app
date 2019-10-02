@@ -1,0 +1,15 @@
+{
+  "main.css": "/to-do-app/static/css/main.a2d39c6a.chunk.css",
+  "main.js": "/to-do-app/static/js/main.2ec1619a.chunk.js",
+  "main.js.map": "/to-do-app/static/js/main.2ec1619a.chunk.js.map",
+  "static/js/1.f6b84cc0.chunk.js": "/to-do-app/static/js/1.f6b84cc0.chunk.js",
+  "static/js/1.f6b84cc0.chunk.js.map": "/to-do-app/static/js/1.f6b84cc0.chunk.js.map",
+  "runtime~main.js": "/to-do-app/static/js/runtime~main.60e6816a.js",
+  "runtime~main.js.map": "/to-do-app/static/js/runtime~main.60e6816a.js.map",
+  "static/css/main.a2d39c6a.chunk.css.map": "/to-do-app/static/css/main.a2d39c6a.chunk.css.map",
+  "static/media/AddTask.css": "/to-do-app/static/media/concrete_wall.a43a70ea.png",
+  "static/media/App.css": "/to-do-app/static/media/noisy_net.3f088219.png",
+  "index.html": "/to-do-app/index.html",
+  "precache-manifest.a16e5784c8f6e08b932e2f1aa07a7087.js": "/to-do-app/precache-manifest.a16e5784c8f6e08b932e2f1aa07a7087.js",
+  "service-worker.js": "/to-do-app/service-worker.js"
+}
